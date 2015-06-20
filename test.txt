@@ -7,3 +7,5 @@ Second Commit for fast forward
 -------------------------------
 This is a new line of code
 -------------------------------
+This is a second line of code
+-------------------------------
